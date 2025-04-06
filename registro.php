@@ -35,9 +35,9 @@
 
 <?php
 //validamos datos del servidor
-$user = 'ua5lzd2r4xhspxc8';
-$pass = '4IyWQq97kOGZDFNuaFbW';
-$host = 'bpbtqdqxsjcjeioagfdt-mysql.services.clever-cloud.com';
+$user = 'ub34nw4n0dahmd7j';
+$pass = 'AOsJ4ava825nBaTiwUSm';
+$host = 'bc9ivc32mpu1xbnwuccw-mysql.services.clever-cloud.com';
 
 //conetamos al base datos
 $connection = mysqli_connect($host, $user, $pass);
@@ -57,7 +57,7 @@ if(!$connection)
             echo "<b><h3>Hemos conectado al servidor</h3></b>" ;
         }
         //indicamos el nombre de la base datos
-        $datab = 'bpbtqdqxsjcjeioagfdt';
+        $datab = 'bc9ivc32mpu1xbnwuccw';
         //indicamos selecionar ala base datos
         $db = mysqli_select_db($connection,$datab);
 
