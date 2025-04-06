@@ -1,0 +1,10 @@
+Se creo una base de datos MySQL en clever cloud (Cuestionario1)
+
+Se creo una base aplicación desde GitHub tipo PHP
+Variables environment, sólo le di siguiente, no modifique nada.
+
+El index.html de alojado en GitHub
+Ya tenia los datos de la base de datos de Cuestionario1. De hecho se verificó primero el funcionamiento en localhost. La base se puede modificar con workbench con Apache encendido en XAMPP o en el phpMyAdmin de Clever cloud.
+Una vez que funcionaba en localhost, así tal cual se copiaron y pegaron los documentos en GitHub y se dio commit changes.
+
+
